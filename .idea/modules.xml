@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Room_Exercicio.iml" filepath="$PROJECT_DIR$/.idea/modules/Room_Exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Room_Exercicio.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Room_Exercicio.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Room_Exercicio.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Room_Exercicio.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Room_Exercicio.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Room_Exercicio.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Room_Exercicio.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Room_Exercicio.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
